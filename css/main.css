@@ -1,0 +1,34 @@
+.boton1 {
+    margin-top: 30px;
+    margin-left:50px;
+}
+.padding{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+.move-input{
+	margin-top:30px;
+	margin-left:45px;
+}
+
+.inline{
+	display: inline-block;
+}
+
+div{
+	background-color:#ff9872;
+}
+.border-tarjeta{
+		border: 1px solid black;
+		width:80px;
+		margin-top:10px;
+}
+.block{
+	display:block;
+	margin-top: 30px;
+}
+.blue{
+	background-color: blue;
+}
+
