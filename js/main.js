@@ -1,3 +1,6 @@
+//Lo bueno: el código si hace el drag & drop
+//Lo malo: solo lo hace una o dos veces 
+
 function crearBoton() {
     var para = document.createElement("INPUT"); //Crear un input
     para.className = "move-input inline-block"
